@@ -6,6 +6,12 @@ This project is about building a voice assistant using OpenAI's GPT-3 model and 
 ## Introduction
 Voice assistants are becoming increasingly popular in personal and professional settings. They facilitate hands-free interactions and enhance user experience by providing real-time responses to queries. This project aims to integrate cutting-edge AI technologies to create a responsive and intelligent voice assistant.
 
+<p align="center">
+  <img src="https://github.com/so123-design/Voice-Assistant-using-OpenAI-and-IBM-Watson/blob/2ef31dd9f1295fa862fd922b1a8c658be78987fa/Voice%20assistant%20screenshot%202.PNG" alt="My Image" width="300">
+</p>
+
+
+
 ## Technology Stack
 - **Backend:** Flask (Python)
 - **AI Processing:** OpenAI GPT-3 for response generation
